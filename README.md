@@ -13,6 +13,8 @@ Clone this repository and run the notebook files described below. The .py file i
 
 Run through the import statements and make sure they install correctly. There may be errors with updating Twint. Enter in the phrase you would like to search within the c.Search call, and use c.Limit to get a rough amount. Note, use the example code to return only 100 results- large amounts of results may slow down your computer.
 
+The TextBlob's accuracy is tenative at best and is not included as part of our analysis. Though, to run, it does require input data- so go to the CSVfiles folder and download the correct input.
+
 ## Running Sentiment.ipynb
 
 The current errors shown is because when I was running them, the file wasn't there. 
