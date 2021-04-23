@@ -27,4 +27,4 @@ We originally collected data using JSON files, but it turns out that Twint has s
 
 ## NLPTags File
 
-The NLPTags file gives a listing of the hashtags that we searched for using Twint.
+The NLPTags file gives a listing of the hashtags that we searched for using Twint. Not all tags are included at this  time, and more will be added in the coming days.
